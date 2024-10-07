@@ -5,10 +5,7 @@ class Calculator:
 
     def add(self, sk: float) -> float:
         return self.number+sk
-        ...
 
-    def sub(self) -> float:
-        ...
 
     def div(self) -> float:
         ...
